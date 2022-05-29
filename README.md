@@ -1,6 +1,25 @@
-# Portfoli
+# Web App Angular i HTML
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+Aquest projecte s'ha generat amb [Angular CLI](https://github.com/angular/angular-cli)
+Angular CLI: 13.3.6
+Node: 16.15.0
+Package Manager: npm 8.10.0
+OS: win32 x64
+
+Angular: 13.3.9
+... animations, common, compiler, compiler-cli, core, forms
+... platform-browser, platform-browser-dynamic, router
+
+Package                         Version
+---------------------------------------------------------
+@angular-devkit/architect       0.1303.6
+@angular-devkit/build-angular   13.3.6
+@angular-devkit/core            13.3.6
+@angular-devkit/schematics      13.3.6
+@angular/cli                    13.3.6
+@schematics/angular             13.3.6
+rxjs                            7.5.5
+typescript                      4.6.4
 
 ## Development server
 
