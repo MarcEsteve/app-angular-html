@@ -1,0 +1,25 @@
+{
+  "equip": [
+    {
+      "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "nombre": "Marc Esteve",
+      "subtitulo": "Profesor",
+      "twitter": "@marcesteveg",
+      "url": "https://firebasestorage.googleapis.com/v0/b/prova3-b13e7.appspot.com/o/team-1.jpg?alt=media&token=0e9b838a-15c6-4155-88e9-8e0cceea4053"
+    },
+    {
+      "frase": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+      "nombre": "Angelina B. Widow",
+      "subtitulo": "Founder / CEO",
+      "twitter": "@angelinawidow",
+      "url": "https://firebasestorage.googleapis.com/v0/b/prova3-b13e7.appspot.com/o/team-2.jpg?alt=media&token=9d078f75-c4fc-4d2b-9f97-ca0a4300d6f5"
+    },
+    {
+      "frase": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "nombre": "Patrick Anderson",
+      "subtitulo": "Art Director",
+      "twitter": "@patrickanderson",
+      "url": "https://firebasestorage.googleapis.com/v0/b/prova3-b13e7.appspot.com/o/team-3.jpg?alt=media&token=c9c304ea-f854-43db-8b2f-5d327576120d"
+    }
+  ]
+}
